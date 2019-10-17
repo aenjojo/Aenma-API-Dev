@@ -1,0 +1,24 @@
+{
+  "name": "aenma-api",
+  "version": "0.1.0b",
+  "description": "A simple API connection",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node --experimental-modules main.mjs"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/AmethystAnimion/Aenma-API"
+  },
+  "license": "Apache 2.0",
+  "keywords": [
+    "node",
+    "express",
+    "aenma-api"
+  ]
+}
